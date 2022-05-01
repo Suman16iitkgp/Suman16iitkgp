@@ -17,7 +17,8 @@ Hi, I'm Suman Kumar!
 I-am-Suman16iitkgp
 -------------------------
 💻 I am interested in Backend Development and Machine Learning
-📚 I am currently a Final year Undergraduate student at IIT Kharagpur with major in Industrial and Systems Engineering andd minor in Computer Science and Engineering
+📚 I am currently a Final year Undergraduate student at IIT Kharagpur 
+📚 Major in Industrial and Systems Engineering andd minor in Computer Science and Engineering
 📝 I have a strong interest in Software Development
 🌟 Main languages: C++, Python
 🚩 Interested in Backend and  Machine Learning Application development
