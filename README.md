@@ -26,9 +26,9 @@ I-am-Suman16iitkgp
 <hr>
 
 
-## 🛠️ My Favorite Tools
+<!-- ## 🛠️ My Favorite Tools -->
 
-### 👨‍💻 Programming Languages
+<!-- ### 👨‍💻 Programming Languages
 
 <p>
     
@@ -39,7 +39,7 @@ I-am-Suman16iitkgp
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3sql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-  
+   -->
 
 
 ### 👨🏽‍💻 Workspace
@@ -55,6 +55,9 @@ I-am-Suman16iitkgp
   <td width="50%" valign="top">
 
 ## Let's Work on Your Project Together!
+If you have any questions about front-end web development, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a> me.
+
+You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a> to deploy your machine learning project on web.
 
 ### Contact Me
     <a href="mailto:sk1244957@gmail.com">email</a>.
