@@ -54,14 +54,12 @@ I-am-Suman16iitkgp
   <tr>
   <td width="50%" valign="top">
 
-## Let's Work on Your Project Together!
-If you have any questions about front-end web development, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a> me.
+## Contact Me
+Feel free to <a href="mailto:sk1244957@gmail.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a> to deploy your machine learning project on web.
+You can also contact me on <a href="https://www.linkedin.com/in/suman-kumar-396325192//">LinkedIn</a>.
 
-### Contact Me
-    <a href="mailto:sk1244957@gmail.com">email</a>.
-    <a href="https://www.linkedin.com/in/suman-kumar-396325192/">Linkedin</a>.
+
 
   <td width="50%" valign="top">
 
