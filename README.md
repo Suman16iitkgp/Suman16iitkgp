@@ -14,15 +14,10 @@ Hi, I'm Suman Kumar!
 <hr>
 
 ```
-I-am-Suman16iitkgp
--------------------------
-💻 I am interested in Backend Development and Machine Learning
-📚 I am currently a Final year Undergraduate student at IIT Kharagpur 
-📚 Major in Industrial and Systems Engineering andd minor in Computer Science and Engineering
-📝 I have a strong interest in Software Development
-🌟 Main languages: C++, Python
-🚩 Interested in Backend and  Machine Learning Application development
-🎵 Love metal, lofi, jazz and soft music
+Contact - suman6.kgp@gmail.com
+
+I am a Software Engineer at Deutsche Bank, where I help build and scale Distributed Systems in Investment Banking Domain. 
+I completed my Bachelors and Masters from Indian Institute of Technology Kharagpur with strong emphasis on Mathematics, Computer Science and Artificial Intelligence. 
 ```
 <hr>
 
